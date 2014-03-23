@@ -1,0 +1,47 @@
+
+#########################################
+                                                                                  
+.--. .--.     .     .--. .--. .   .. .-. 
+|   :|   )   / \   :    :    :|\  ||(   )
+|   ||--'   /___\  | --.|    || \ |  `-. 
+|   ;|  \  /     \ :   |:    ;|  \| (   )
+'--' '   `'       ` `--' `--' '   '  `-' 
+          .---..   ..---. .-.            
+          |     \ / |    (   )           
+          |---   :  |---  `-.            
+          |      |  |    (   )           
+          '---'  '  '---' `-'            
+                                         
+#########################################
+
+WYNNCRAFT'S EYES, A MINECRAFT RESOURCE PACK
+BY T3HPHAZONDRAGON
+
+#########################################
+
+CURRENT VERSION
+
+1.0
+
+#########################################
+
+PREVIOUS VERSIONS
+
+Old versions of the original pack can be found in this folder:
+
+http://www.mediafire.com/folder/hek1q61zgz8zz/Dragon's_Eyes
+
+Refer to the CHANGELOG. Not all versions are listed; this is intentional. Currently hosted versions are ones that were publicly released.
+
+#########################################
+
+CHANGELOG
+
+1.0
+* All original Dragon's Eyes textures added
+* Iron shovel texture changed to look like a spear
+* Quartz retextured to look like wolf fangs
+* Simplified powder textures
+* Liquified emerald texture
+* Stick texture
+* Animated stick, iron shovel
