@@ -45,3 +45,7 @@ CHANGELOG
 * Liquified emerald texture
 * Stick texture
 * Animated stick, iron shovel
+* Paper texture to scroll
+* Nether star looks like a soul
+* Compass changed to quill and ink
+* Shears to a lil tiny cute dagger!
