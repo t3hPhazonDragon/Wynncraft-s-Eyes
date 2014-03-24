@@ -79,13 +79,6 @@ These customizations are typically extras that I've made and decided to later ch
 
 * Three_Two for the inspiration to make clear GUIs and a customized default texture pack
 * Plastix for the inspiration to make a customized default pvp pack, and for information on colored text
-* Bzap for using my pack and encouraging me when things go stupidly wrong!
-* GoldenShovel and MisturLime for the GAY PRTS ship in the pack icon (pack.png)
-* SoundJay (http://soundjay.com) for free sounds
-* Silk (http://weavesilk.com/) for the custom enchantment shine
-* FreeSFX (http://www.freesfx.co.uk) for free sounds
-* Everyone who uses/used the 1.0 Version of this pack
-* Everyone who responded to my questions about which textures to use
 * Notch for creating the wonderful game of Minecraft
 * Mojang for continuing to update the game
 * Dinnerbone because Dinnerbone
@@ -95,13 +88,13 @@ These customizations are typically extras that I've made and decided to later ch
 * d3fin3d for the HD Minecraft font from (http://www.minecraftforum.net/topic/834569-64x-32x-all-versions-hd-minecraft-font-default-style/)
 * PandaBattalion for the inspiration from his own resource pack
 * Septimus2000 for being my silly not-beta-tester
-* Subtle Patterns for the options background (http://subtlepatterns.com/triangular/)
+* You! For taking the time to read this, and use my pack! Thanks! :)
 
 #########################################
 
 5. CONTACT [CNTC]
 
-Various methods of contact include email, Tumblr, Reddit, oc.tc, Skype, and YouTube, in the following order:
+Various methods of contact include email, Tumblr, Reddit, oc.tc, Skype, YouTube, and Wynncraft, in the following order:
 
 t3hphazondragon@gmail[dot]com
 http://halfslats.tumblr.com
@@ -109,6 +102,7 @@ http://reddit.com/u/t3hphazondragon
 http://oc.tc./t3hphazondragon
 t3hphazondragon
 http://youtube.com/t3hphazondragon
+http://forums.wynncraft.com/members/t3hphazondragon.5076/
 
 #########################################
 
