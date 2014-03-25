@@ -38,7 +38,6 @@ Refer to the CHANGELOG. Not all versions are listed; this is intentional. Curren
 CHANGELOG
 
 1.0
-* All original Dragon's Eyes textures added
 * Iron shovel texture changed to look like a spear
 * Quartz retextured to look like wolf fangs
 * Simplified powder textures
