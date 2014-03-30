@@ -108,14 +108,13 @@ http://forums.wynncraft.com/members/t3hphazondragon.5076/
 
 6. PLANNED FEATURES [PLAN]
 
-* Custom font
 * Personalized icon
 * Distinction between no hearts and wither'd hearts
 * Customized particles
 * Better water texture
 * Heart/armor status textures
-* More customized text and colors
 * Animated weapons
+* Custom sounds
 
 #########################################
 

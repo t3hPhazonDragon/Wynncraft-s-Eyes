@@ -21,7 +21,7 @@ BY T3HPHAZONDRAGON
 
 CURRENT VERSION
 
-1.0
+1.1
 
 #########################################
 
@@ -36,6 +36,10 @@ Refer to the CHANGELOG. Not all versions are listed; this is intentional. Curren
 #########################################
 
 CHANGELOG
+
+1.1
+* Shrunk size of mashed insect (clay ball)
+* Powders moved to inside bottles
 
 1.0
 * Iron shovel texture changed to look like a spear
