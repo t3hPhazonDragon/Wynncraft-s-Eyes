@@ -40,6 +40,7 @@ CHANGELOG
 1.1
 * Shrunk size of mashed insect (clay ball)
 * Powders moved to inside bottles
+* Added sounds from SnowSong
 
 1.0
 * Iron shovel texture changed to look like a spear

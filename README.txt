@@ -86,8 +86,7 @@ These customizations are typically extras that I've made and decided to later ch
 * Moesh for creating the pvp map, Calamity, that is an option for a title background
 * Last_Username for creating the pvp map, Hoodoo, that is the default title background
 * d3fin3d for the HD Minecraft font from (http://www.minecraftforum.net/topic/834569-64x-32x-all-versions-hd-minecraft-font-default-style/)
-* PandaBattalion for the inspiration from his own resource pack
-* Septimus2000 for being my silly not-beta-tester
+* sn0w for the amazing sounds! (http://www.minecraftforum.net/topic/1900512-snowsong-the-epic-sound-pack-sound-resource-pack-for-all-versions-of-minecraft/)
 * You! For taking the time to read this, and use my pack! Thanks! :)
 
 #########################################
