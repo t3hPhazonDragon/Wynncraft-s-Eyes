@@ -1,5 +1,5 @@
-#########################################
-                                                                                  
+***
+```                                                                                  
 .--. .--.     .     .--. .--. .   .. .-. 
 |   :|   )   / \   :    :    :|\  ||(   )
 |   ||--'   /___\  | --.|    || \ |  `-. 
@@ -10,41 +10,41 @@
           |---   :  |---  `-.            
           |      |  |    (   )           
           '---'  '  '---' `-'            
-                                         
-#########################################
+```                                         
+***
 
-WYNNCRAFT'S EYES, A MINECRAFT RESOURCE PACK
+**WYNNCRAFT'S EYES**, A MINECRAFT RESOURCE PACK
 BY T3HPHAZONDRAGON
 
 1.7+ CUSTOMIZED DRAGON'S EYES FOR WYNNCRAFT. INSPIRED BY PLAST AND THREE_TWO.
 
 INFORMALLY KNOWN AS "PHAZ'S PVP PACK"
 
-CHANGELOG CAN BE FOUND IN CHANGELOG.TXT
+CHANGELOG CAN BE FOUND IN [CHANGELOG.TXT](/CHANGELOG.txt)
 
 FOR BEST RESULTS, PAIR WITH "DRAGON'S EYES" IN THE RESOURCE PACKS SETTINGS.
 
-#########################################
+***
 
-I. TABLE OF CONTENTS
+###TABLE OF CONTENTS
 
-1. Current Version ............... [CURR]
-2. Features ...................... [FEAT]
-3. Customizations ................ [CUST]
-4. Special Thanks ................ [THNX]
-5. Contact ....................... [CNTC]
-6. Planned Features .............. [PLAN]
-7. Licensing ..................... [LICS]
+1. Current Version
+2. Features
+3. Customizations
+4. Special Thanks
+5. Contact
+6. Planned Features
+7. Licensing
 
-#########################################
+***
 
-1. CURRENT VERSION [CURR]
+###CURRENT VERSION
 
-1.1
+	1.1
 
-#########################################
+***
 
-2. FEATURES [FEAT]
+###FEATURES
 
 * Clear GUI, glass, nether portal, water, and ice textures
 * Colored menu titles
@@ -59,13 +59,13 @@ I. TABLE OF CONTENTS
 * Textures to fit the items on the server
 * And much more!
 
-#########################################
+***
 
-3. CUSTOMIZATIONS [CUST]
+###CUSTOMIZATIONS
 
 Extra customizations to the pack can be found in:
 
-assets -> minecraft -> customizations
+	assets -> minecraft -> customizations
 
 To use one of these, you'll want to copy the corresponding files to the correct folder in the pack. The name of the folder the customizations are found in correspond to the folder that they should be moved to.
 
@@ -73,9 +73,9 @@ The originals from the pack are also in the customizations section, so you don't
 
 These customizations are typically extras that I've made and decided to later change or completely redo, such as the fonts and the ice.
 
-#########################################
+***
 
-4. SPECIAL THANKS [THNX]
+###SPECIAL THANKS
 
 * Three_Two for the inspiration to make clear GUIs and a customized default texture pack
 * Plastix for the inspiration to make a customized default pvp pack, and for information on colored text
@@ -89,23 +89,23 @@ These customizations are typically extras that I've made and decided to later ch
 * sn0w for the amazing sounds! (http://www.minecraftforum.net/topic/1900512-snowsong-the-epic-sound-pack-sound-resource-pack-for-all-versions-of-minecraft/)
 * You! For taking the time to read this, and use my pack! Thanks! :)
 
-#########################################
+***
 
-5. CONTACT [CNTC]
+###CONTACT
 
 Various methods of contact include email, Tumblr, Reddit, oc.tc, Skype, YouTube, and Wynncraft, in the following order:
 
-t3hphazondragon@gmail[dot]com
-http://halfslats.tumblr.com
-http://reddit.com/u/t3hphazondragon
-http://oc.tc./t3hphazondragon
-t3hphazondragon
-http://youtube.com/t3hphazondragon
-http://forums.wynncraft.com/members/t3hphazondragon.5076/
+* t3hphazondragon@gmail[dot]com
+* http://halfslats.tumblr.com
+* http://reddit.com/u/t3hphazondragon
+* http://oc.tc./t3hphazondragon
+* t3hphazondragon
+* http://youtube.com/t3hphazondragon
+* http://forums.wynncraft.com/members/t3hphazondragon.5076/
 
-#########################################
+***
 
-6. PLANNED FEATURES [PLAN]
+###PLANNED FEATURES
 
 * Personalized icon
 * Distinction between no hearts and wither'd hearts
@@ -115,9 +115,9 @@ http://forums.wynncraft.com/members/t3hphazondragon.5076/
 * Animated weapons
 * Custom sounds
 
-#########################################
+***
 
-7. LICENSING [LICS]
+###LICENSING
 
 WYNNCRAFT'S EYES is released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) license.
 
